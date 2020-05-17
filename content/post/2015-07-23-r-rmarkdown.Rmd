@@ -1,0 +1,31 @@
+---
+title: "House of Satoshi – Part I: Introduction"
+author: "Philipp Giese"
+date: 2020-05-17T21:13:14-05:00
+categories: ["Framework"]
+tags: ["HOuse of Satoshi", "analysis", "metrics"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+What is the value of a cryptocurrency or, spoken more generally, of a crypto asset? A question, which is tough to answer. Critics of the cryptocurrency ecosystem have their difficulties to see any value in it. Oftentimes, they conclude that the pricing simpy stems from supply and demand at various exchanges, i.e. that crypto assets are mere speculative objects. Hence, without a real underlying value, these critics understandably scorn things such as the excessive energy demands of Bitcoin and other Proof-of-Work-based cryptocurrencies. 
+
+A retour oftentimes used by adherents of the crypto ecosystem does not help: It is in no way an answer to stress that neither Gold nor fiat currencies have an intrinsic value except the one defined by supply and demand. Whataboutism is no answer. Aherents should instead specify what the value propositions of specific cryptocurrencies are and if their properties support these propositions. That is not only a good counter-argument against critics as investors in the field have to ask a similar question to discern whether a long-term investment makes sense. 
+
+There are many approaches to evaluate crypto-assets. One more recent example would be the [stock-to-flow-ratio](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) presented by PlanB. While it started as an evaluation framework in comparison to gold more [recent work](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12) shows how different narratives manifested within the stock-to-flow-Ratio. 
+
+Despite these professional approaches the market cap serves oftentimes as a first estimate, as its prevalence on coinranking-sites such as [Coinmarketcap](www.coinmarketcap.com) prove. The current price times the supply of an asset is, hence, a measure for its value. With the rising critique several other valuations such as the relative cap or the thermocap were introduced (Hier auf Carter verlinken!). Moreover, additional metrics such as the trading volume, the days destroyed or even its presence in social media or its developer activity are examined to evaluate a crypto asset from different viewpoints. The metrics which are used to estimate the value of a crypto asset are manifold. 
+
+And indeed: all these metrics help to estimate the usage and even the potential value of a crypto asset. However, they all focus on distinct use cases. Moreover, a comparison between metrics is oftentimes not straightforward as even similar metrics might have different focuses: While transaction volume analyzes the current usage of a cryptocurrency, transaction time focuses more on its potential regarding adoption. Both metrics look at similar things, however, have completely different starting points. 
+
+So, what defines the *value* of a crypto asset? Looking at Bitcoin and Ethereum we see that both have a different value proposition. Even within the same cryptocurrency the value propositions can change, as [Nic Carter and Hasu](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c) could show regarding Bitcoin and [Felipe Gaucho Pereira](https://tokeneconomy.co/visions-of-ether-590858bf848e) for Ethereum. How can we measure these values - both its potential value as well as the value users currently see in the asset? A framework to associate different value propositions to different crypto assets, might be helpful here, especially when metrics are included. 
+
+The goal of this article series is, thus, twofold: 
+
+- The development of a framework which helps to associate the properties of a crypto asset to different narratives/value propositions. The framework should aswer the question whether a distinct crypto asset serves a distinct value proposition well or not. On this base people can proceed to estimate the value of a cryptocurrency using classical models. The framework will be highly influenced by the House of Quality, an analysis framework well-known in Quality function deployment (hence the name House of Satoshi).
+
+- Furthermore, metrics oftentimes applied in the crypto ecosystem should be classified within this framework. We want to answer the question what narrative is best illustrated with which metric. Before this final classification a broader distinction will be applied: Is it a measure for some unterlying fundamentals (and hence indicate reasons for a future adoption) or does it quantify the current acceptance? 
+
+First steps for this framework were presented on [fundsresearch](https://www.fundresearch.de/blockchain/Bitcoin-Narrative-Was-sehen-Menschen-in-Bitcoin.php) and in the Kryptokompass-issues of [Dec 2018](https://www.btc-echo.de/shop/produkt/kryptokompass/kryptokompass-ausgabe-18-dezember-2018/) and [Jan 2019](https://www.btc-echo.de/shop/produkt/kryptokompass/kryptokompass-ausgabe-19-januar-2019/) (The Kryptokompass is a Cryptocurrency-focussed newsletter in German, published by BTC-ECHO). The aim of this article-series is an actualization and extension of this preceeding research.
