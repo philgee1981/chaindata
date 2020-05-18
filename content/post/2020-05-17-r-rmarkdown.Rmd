@@ -3,6 +3,7 @@ title: "House of Satoshi – Part II: Narratives within the cryptoasset ecosyste
 author: "Philipp Giese"
 date: "5/17/2020"
 output: html_document
+draft: false
 ---
 
 ```{r setup, include=FALSE}
