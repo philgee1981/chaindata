@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>House of Satoshi – Part II: Narratives within the cryptoasset ecosystem</title>
+      <link>/2020/05/18/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</link>
+      <pubDate>Mon, 18 May 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/05/18/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</guid>
+      <description>For this framework a definition of different crypto-related narratives is vital. The following list does not claim to be complete, but hopefully is fairly comprehensive. Based on the aforementioned musings of Nic Carter different narratives can be classified. After a short description the respective properties supporting or inhibiting a distinct narrative are presented. Regarding properties which inhibit a distinct narrative it should be stressed that these does not need to be complete dealbreakers; they are simply making the realization of a narrative more complicated or pose some risks.</description>
+    </item>
+    
+    <item>
       <title>House of Satoshi – Part I: Introduction</title>
       <link>/2020/05/17/house-of-satoshi-part-i-introduction/</link>
       <pubDate>Sun, 17 May 2020 21:13:14 -0500</pubDate>
@@ -27,15 +36,6 @@
       
       <guid>/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
-    </item>
-    
-    <item>
-      <title>House of Satoshi – Part II: Narratives within the cryptoasset ecosystem</title>
-      <link>/1/01/01/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</guid>
-      <description>For this framework a definition of different crypto-related narratives is vital. The following list does not claim to be complete, but hopefully is fairly comprehensive. Based on the aforementioned musings of Nic Carter different narratives can be classified. After a short description the respective properties supporting or inhibiting a distinct narrative are presented. Regarding properties which inhibit a distinct narrative it should be stressed that these does not need to be complete dealbreakers; they are simply making the realization of a narrative more complicated or pose some risks.</description>
     </item>
     
   </channel>

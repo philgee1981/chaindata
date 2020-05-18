@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Chaindata – Bitcoin and Blockchain from a data-driven perspective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>House of Satoshi – Part II: Narratives within the cryptoasset ecosystem</title>
+      <link>/2020/05/18/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</link>
+      <pubDate>Mon, 18 May 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/05/18/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</guid>
+      <description>For this framework a definition of different crypto-related narratives is vital. The following list does not claim to be complete, but hopefully is fairly comprehensive. Based on the aforementioned musings of Nic Carter different narratives can be classified. After a short description the respective properties supporting or inhibiting a distinct narrative are presented. Regarding properties which inhibit a distinct narrative it should be stressed that these does not need to be complete dealbreakers; they are simply making the realization of a narrative more complicated or pose some risks.</description>
+    </item>
     
     <item>
       <title>House of Satoshi – Part I: Introduction</title>
@@ -18,15 +27,6 @@
       
       <guid>/2020/05/17/house-of-satoshi-part-i-introduction/</guid>
       <description>What is the value of a cryptocurrency or, spoken more generally, of a crypto asset? A question, which is tough to answer. Critics of the cryptocurrency ecosystem have their difficulties to see any value in it. Oftentimes, they conclude that the pricing simpy stems from supply and demand at various exchanges, i.e. that crypto assets are mere speculative objects. Hence, without a real underlying value, these critics understandably scorn things such as the excessive energy demands of Bitcoin and other Proof-of-Work-based cryptocurrencies.</description>
-    </item>
-    
-    <item>
-      <title>House of Satoshi – Part II: Narratives within the cryptoasset ecosystem</title>
-      <link>/1/01/01/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/house-of-satoshi-part-ii-narratives-within-the-cryptoasset-ecosystem/</guid>
-      <description>For this framework a definition of different crypto-related narratives is vital. The following list does not claim to be complete, but hopefully is fairly comprehensive. Based on the aforementioned musings of Nic Carter different narratives can be classified. After a short description the respective properties supporting or inhibiting a distinct narrative are presented. Regarding properties which inhibit a distinct narrative it should be stressed that these does not need to be complete dealbreakers; they are simply making the realization of a narrative more complicated or pose some risks.</description>
     </item>
     
   </channel>
