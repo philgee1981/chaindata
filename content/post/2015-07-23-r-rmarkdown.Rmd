@@ -3,7 +3,7 @@ title: "House of Satoshi – Part I: Introduction"
 author: "Philipp Giese"
 date: 2020-05-17T21:13:14-05:00
 categories: ["Framework"]
-tags: ["HOuse of Satoshi", "analysis", "metrics"]
+tags: ["House of Satoshi", "analysis", "metrics"]
 draft: false
 ---
 
