@@ -4,6 +4,7 @@ author: "Philipp Giese"
 date: 2020-05-17T21:13:14-05:00
 categories: ["Framework"]
 tags: ["HOuse of Satoshi", "analysis", "metrics"]
+draft: false
 ---
 
 ```{r setup, include=FALSE}
@@ -29,3 +30,6 @@ The goal of this article series is, thus, twofold:
 - Furthermore, metrics oftentimes applied in the crypto ecosystem should be classified within this framework. We want to answer the question what narrative is best illustrated with which metric. Before this final classification a broader distinction will be applied: Is it a measure for some unterlying fundamentals (and hence indicate reasons for a future adoption) or does it quantify the current acceptance? 
 
 First steps for this framework were presented on [fundsresearch](https://www.fundresearch.de/blockchain/Bitcoin-Narrative-Was-sehen-Menschen-in-Bitcoin.php) and in the Kryptokompass-issues of [Dec 2018](https://www.btc-echo.de/shop/produkt/kryptokompass/kryptokompass-ausgabe-18-dezember-2018/) and [Jan 2019](https://www.btc-echo.de/shop/produkt/kryptokompass/kryptokompass-ausgabe-19-januar-2019/) (The Kryptokompass is a Cryptocurrency-focussed newsletter in German, published by BTC-ECHO). The aim of this article-series is an actualization and extension of this preceeding research.
+
+
+

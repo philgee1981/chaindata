@@ -1,0 +1,115 @@
+---
+title: "House of Satoshi – Part II: Narratives within the cryptoasset ecosystem"
+author: "Philipp Giese"
+date: "5/17/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+For this framework a definition of different crypto-related narratives is vital. The following list does not claim to be complete, but hopefully is fairly comprehensive. Based on the aforementioned musings of Nic Carter different narratives can be classified. After a short description the respective properties supporting or inhibiting a distinct narrative are presented. Regarding properties which inhibit a distinct narrative it should be stressed that these does not need to be complete dealbreakers; they are simply making the realization of a narrative more complicated or pose some risks. 
+
+## Proof of concept
+
+The crypto-ecosystem is still quite young. Yes, Bitcoin and other cryptocurrencies already can show some applications but most of the Altcoins still have to prove themselves.However, the crypto-community does not sleep. Approaches such as  Taproot or Dandelion prove that Bitcoin is not the sleeping dinosaur that its critics see in the cryptocurrency. Similar things can be said about Ethereum regarding Ethereum 2.0, to name another example. These examples have one thing in common: They are, more or less, still in testing or development stage, i.e. oftentimes in the proof-of-concept-regime.
+
+Proofs of concepts should be *transparent* enought to analyze whether the desired goals are reached. As a test system is not yet finished it should be *expandable*. If developed publicly an *open participation* of interested people in the spirit of open source development is desirable. 
+
+## Anonymous Currency
+
+Drug money, Silk-Road-currency, tool to finance terrorism... Bitcoin and other older cryptocurrencies such as Monero are oftentims the aim of these allegiations. Beside this negative connotations anonymity and privacy are values at the core of cryptocurrencies. Bitcoin was introduced, discussed and ultimately developed in a cypherpunk environment. Furthermore, anonymity is not only mandatory for illegal applications. In Germany and other countries the salary negotiated with employers is something which should not be discussed with other employees. In a future where various applications should be stored on a blockchain anonymity would this, even in withoud a cypherpunk mindset, be mandatory. 
+
+An anonymous cryptocurrencies should, as the name implies, be *anonymous* which also implies to be *fungible*. A *fast* payment processing is also desirable. One could argue, on the other hand, that an *immutability* might be a risk regarding anonymity. Of course, *transparency* is something to be avoided.
+
+## Peer-to-Peer-currency
+
+The electronic peer-to-peer-currency is the classical use case of Bitcoin and classic cryptocurrencies. A monetary transaction across the globe between two people without a middleman is without a doubt one of the most well-known narratives around Bitcoin. Beside the ideological implications regarding „being your own bank“ this abolishing of a necessity for a third party could be advantageous regarding micro- and macrotransactions. 
+
+*Scalability*, *resiliency*, *velocity* and *fungibility* are properties which support this narrative. In contrast to that, a *limited supply* as well as an *open participation* within the governance would hinder this use case.
+
+## Store of value
+
+Without a doubt "digital gold" is also one of the better-known use-cases associated with bitcoin. As an absolutely limited good Bitcoin cannot suffer from the drawbacks of an uncontrolled inflation. Similarities to Gold are oftentimes stressed and lead to eg. the aforementioned Stock-to-Flow-Ratio. Hoping on an increasing adoption the limited supply would yield to a dramatic increase in value for Bitcoin and other limited cryptocurrencies. 
+
+*Immutability*, *resiliency* and a *finite supply* are supporting this narrative. However, *expandability* and *open participation* would be properties leading to a risk for the narrative. 
+
+## Base-currency for cryptomarkets
+
+With the rise of crypto-exchanges the trade between different crypto-asset became one of the most dominant use cases in the crypto-ecosystem. Bitcoin oftentimes serves as a base value, however, especially within decentralized exchanges Ethereum or various stable coins serve this purpose. For some cryptocurrencies even other altcoins such as Litecoin or Dogecoin serve as a base currency. Additionally, the rise of exchange-specific coins such as Binance Coin or Kucoin Shares could be examined within this narrative. 
+
+For a base currency a high *scalability* could be advantageous. In contrast to that, an *open participation* in governance structures would be a stumbling block
+
+## Speculative asset
+
+This narrative stands a little bit for the frenzy of late 2017. With memes such as "when moon", "lambo" etc real ideological and technological reasons for different cryptoassets became irrelevant. People tried instead to "buy the fuckin dip", "hodl" and a complete absurd investment not completely different from horse racing were the main pastimes. To be fair, these are only the most absurd faces of this narrative. Trader, who are also speculating about the prices of crypto assets, serve an important role in the pricing of assets.
+
+*Scalability* and *Velocity* are, especially regarding day- or scalptrading, extremely important. *Immutability*, *anonymity*, a *finite supply* and *open participation* are not supporting this narrative. 
+
+## World computer
+
+The initial use case of Ethereum was around this narrative. "Build unstoppable applications" was one of the goals and various dApps show, that the possibilities of Ethereum are not limited to payment applications. Ethereum is just one example here, of course other smart contract platforms such as EOS or TRON also fall in this narrative. Even Bitcoin, with the help of sidechains such as RSK or the application of Miniscript, might be viewed in this narrative. 
+
+*Transparency*, *expandability*, *resiliency*, *open participation* and *velocity* are here important properties for this narrative. *Immutability*, *anonymity* and a *limited supply* could be a stubling block or even a risk, though. 
+
+## Uncorrelated digital asset
+
+One of the great hopes before the market crash from March 2020 was the adoption of Bitcoin among the institutional inverstors. They should provide big money for the ecosystem and push the value of Bitcoin to new heights. The reason for a potential interest in Bitcoin was the small correlation of Bitcoin to classical assets. For a diversified portfolio crypto assets might be an interesting addition.
+
+*Immutability*, *transparency*, *resiliency* and a *finite supply* would support this narrative. *Anonymity* and *open participation*, however, might stand in the way of this vision. 
+
+## New monetary standard
+
+In his book "the Bitcoin Standard" Saifedean Ammous a vision about Bitcoin where Bitcoin would serve as a new gold standard. Currencies all around the world would use this new standard. The properties of Bitcoin, especially the transparency and the limited supply, would prove that Bitcoin serves as a better standard than gold. The classical "be your own bank" would change to "we are our own bank". 
+
+Similar to the uncorrelated digital asset, supporting properties would be *immutability*, *transparency*, *resiliency* and a *finite supply* while *anonymity* and *open participation* would stand in  the way of this narrative. 
+
+## Digital collectible
+
+Cryptokitties was the beginning. Nowadays a lot of NFT-based dApps are on the market. There are decentralized pendants to trading cards, digital art or digital land in the virtual realities of Decentraland and Cryptovoxels, to name some examples. However, digital collectibles could be seen much more rudimentary: Following the Essay "Shelling out" from Nick Szabo we can say that one first step within the development of money were collectibles. Specific objects were simply collected because of their appealing shape. 
+
+*Immutability*, *resiliency* and a *finite supply* are properties supporting this narrative. For some cases, such as digital games, an *extensibility* would also be advantageous. *Open participation* could, when a digital-collectible-system reaches some maturity, lead to some problems while *fungibility* would be a characteristic in stark contrast to the narrative. 
+
+## Decentralized Finance instrument
+
+Decentralized finance or short #defi are a label for financial projects beyond a classical payment- or investment aspect. Decentralized exchanges such as 0x, decentralized lending or decentralized stable coins could be summarized in this narrative. One may argue that Bitcoins Lightning Network and developments based on it also belong to this narrative. 
+
+A decentralized finance system needs *scalability* and *velocity*. *Extensibility*, *resiliency* and *open participation* are also demanded.
+
+## Tokenized Security
+
+With the rise of security token offerings or short STOS tokenized securities rose to public awareness. Granted, the SEC was quite harsh against Initial Coin offerings but how about a variant fitting to the regulations? With tokenized securities the aim is to have a digital counterpart to securities fitting to financial regulations. Moreover, the tokenization of real estate or other objects also fits this narrative. 
+
+*Scalability*, *resiliency*, *transparency*, a *finite supply* and *velocity* serve this narrative. Characteristics such as a high *immutability*, *anonymity*, *fungibility* or *open participation* are in contrast to that to be shunned. 
+
+## Stablecoin
+
+Stablecoins are since 2018 an often-discussed topic. Recent developments around Libra or the digital Yuan of the CDBC will again spark the attention regarding this narrative. Stablecoins are, as the name implies, crypto assets whose monetary value is coupled to real-world assets such as a fiat currency, a cryptocurrency or assets such as gold. Hence, stablecoins serve two purposes: To provide a stable standard within cryptomarkets with a low volatility and to map crypto assets on other systems. 
+
+*Scalability*, *resiliency*, *velocity* and *fungibility* are characteristics favoured by this narrative. *Extensibility*, *immutability* and *open participation*, however, are oftentimes shunned. 
+
+# Starting from the roof: The interrelations between the different narratives
+
+Pondering about these narratives we can see that some of them can easily coexist beside each other. A store of value and an uncorrelated digital asset, for example, are two narratives which don't contradict each other like eg. a new monetary standard and a proof of concept. In that sense no cryptocurrency can be everything for everyone. Similar to a pocket knife cryptocurrencies who try to do that can end up as not ideal assets for all narratives. 
+
+This idea could be summarized in such a kind of matrix: 
+
+```{r}
+library(tidyverse)
+library(readxl)
+cols <- c("-1" = "red", "0" = "white", "1" = "green")
+read_xlsx("data/houseofsatoshi_data.xlsx",sheet = 1) %>% pivot_longer(names_to="type",values_to="vals", -names) %>% ggplot(aes(x=names,y=type,fill=as.character(vals))) + geom_tile(col = "black",show.legend = F) + labs(y="", x="") + scale_fill_manual(values = cols) + theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+Here, narratives who support each other are labeled green while the ones who contradict each other are marked red. 
+
+Now we also see why within Quality function deployment we talk about correlation matrices: In the matrix depicted above a sort of "correlation" between the different narratives can be seen. 
+
+But that is just a start. We have written down various properties supporting or inhibiting the different narratives. That also can be viewed as a correlation matrix: 
+
+```{r}
+read_xlsx("data/houseofsatoshi_data.xlsx",sheet = 2) %>% pivot_longer(names_to="type",values_to="vals", -names) %>% ggplot(aes(x=type,y=names,fill=as.character(vals))) + geom_tile(col = "black",show.legend = F) + labs(y="", x="") + scale_fill_manual(values = cols) + theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+We end up with a good overview regarding the aforementioned properties. We see for example, that Store of Values, uncorrelated digital assets, a new monetary standard and digital collectibles all share their view regarding immutability. In contrast to that fungibility is especially important for anonymous darknet currencies, peer-to-peer currencies and stablecoins.
