@@ -2,7 +2,8 @@
 title: "House of Satoshi – Part II: Narratives within the cryptoasset ecosystem"
 author: "Philipp Giese"
 date: 2020-05-18T21:13:14-05:00
-output: html_document
+categories: ["Framework"]
+tags: ["HOuse of Satoshi", "analysis", "metrics"]
 draft: false
 ---
 
@@ -96,7 +97,7 @@ Pondering about these narratives we can see that some of them can easily coexist
 
 This idea could be summarized in such a kind of matrix: 
 
-```{r}
+```{r echo = FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(readxl)
 cols <- c("-1" = "red", "0" = "white", "1" = "green")
