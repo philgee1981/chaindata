@@ -110,7 +110,7 @@ Now we also see why within Quality function deployment we talk about correlation
 
 But that is just a start. We have written down various properties supporting or inhibiting the different narratives. That also can be viewed as a correlation matrix: 
 
-```{r}
+```{r echo = FALSE, message=FALSE, warning=FALSE}
 read_xlsx("data/houseofsatoshi_data.xlsx",sheet = 2) %>% pivot_longer(names_to="type",values_to="vals", -names) %>% ggplot(aes(x=type,y=names,fill=as.character(vals))) + geom_tile(col = "black",show.legend = F) + labs(y="", x="") + scale_fill_manual(values = cols) + theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 

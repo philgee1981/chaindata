@@ -22,11 +22,6 @@
 
 
 
-
-<link href='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css' rel='stylesheet' type='text/css' />
-
-
-
 <link rel="stylesheet" href="/css/fonts.css" media="all">
 <link rel="stylesheet" href="/css/main.css" media="all">
 
@@ -58,7 +53,7 @@
 
   <article class="article">
     
-    <span class="article-duration">9 min read</span>
+    <span class="article-duration">8 min read</span>
     
 
     <h1 class="article-title">House of Satoshi – Part II: Narratives within the cryptoasset ecosystem</h1>
@@ -145,7 +140,6 @@
 <p>Here, narratives who support each other are labeled green while the ones who contradict each other are marked red.</p>
 <p>Now we also see why within Quality function deployment we talk about correlation matrices: In the matrix depicted above a sort of “correlation” between the different narratives can be seen.</p>
 <p>But that is just a start. We have written down various properties supporting or inhibiting the different narratives. That also can be viewed as a correlation matrix:</p>
-<pre class="r"><code>read_xlsx(&quot;data/houseofsatoshi_data.xlsx&quot;,sheet = 2) %&gt;% pivot_longer(names_to=&quot;type&quot;,values_to=&quot;vals&quot;, -names) %&gt;% ggplot(aes(x=type,y=names,fill=as.character(vals))) + geom_tile(col = &quot;black&quot;,show.legend = F) + labs(y=&quot;&quot;, x=&quot;&quot;) + scale_fill_manual(values = cols) + theme(axis.text.x = element_text(angle = 45, hjust = 1))</code></pre>
 <p><img src="/post/2020-05-17-r-rmarkdown_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 <p>We end up with a good overview regarding the aforementioned properties. We see for example, that Store of Values, uncorrelated digital assets, a new monetary standard and digital collectibles all share their view regarding immutability. In contrast to that fungibility is especially important for anonymous darknet currencies, peer-to-peer currencies and stablecoins.</p>
 </div>
@@ -171,18 +165,6 @@
 
     </div>
     
-
-
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-
-
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
-<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
-
-
 
     
 
